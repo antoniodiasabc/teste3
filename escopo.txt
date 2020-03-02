@@ -1,0 +1,14 @@
+escopo
+a empresa X quer realizar viagens
+utilizando carros voadores com
+o preco da viagem de ate 10 dolares
+(necessidade do cliente)
+
+analise.txt (o que o sistema deve fazer)
+design.txt (como vou fazer)
+codificacao.txt (que linguagem , divisao em modulos ?)
+testes.txt (passos para testar os requisitos)
+operacao.txt (como implantar e monitorar o sistema)
+
+git config --global user.name "usuariogithub"
+git config --global user.email "emailgithub"
